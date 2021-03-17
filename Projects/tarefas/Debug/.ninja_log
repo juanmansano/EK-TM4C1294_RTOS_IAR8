@@ -1,0 +1,21 @@
+# ninja log v5
+4	689	6376411027210803	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/rtx_lib.o	32afe2aa391ff70f
+0	189	6376254611998495	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/startup_TM4C1294.o	2289cc9f737dd7e
+5	199	6376447695427424	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/tarefas.o	9364947aeeb7bec3
+484	521	6376447698885291	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.bin	1c2751efd29a6399
+216	464	6376447697865913	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.out	94148e3fc5853be0
+820	1065	6376254620512515	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/RTX_Config.o	6d6746633a02e454
+13	801	6376254617614282	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/driverleds.o	641bd6d487b7f45d
+792	1125	6376254620942222	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/system_TM4C1294_TW.o	9987d8ba619d89b7
+4	429	6376448244485241	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/tarefas.o	9364947aeeb7bec3
+442	794	6376448248023060	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.out	94148e3fc5853be0
+814	842	6376448248912502	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.bin	1c2751efd29a6399
+4	250	6376448891555419	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/tarefas.o	9364947aeeb7bec3
+267	525	6376448893873973	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.out	94148e3fc5853be0
+543	657	6376448895802790	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.bin	1c2751efd29a6399
+4	459	6376450338019515	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/tarefas.o	9364947aeeb7bec3
+475	719	6376450340358053	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.out	94148e3fc5853be0
+738	848	6376450342186932	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.bin	1c2751efd29a6399
+4	229	6376450520771153	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Obj/tarefas.o	9364947aeeb7bec3
+245	466	6376450522842238	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.out	94148e3fc5853be0
+484	516	6376450523779704	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/tarefas/ewarm/Exe/tarefas.bin	1c2751efd29a6399

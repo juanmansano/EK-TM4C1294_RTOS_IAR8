@@ -1,0 +1,9 @@
+# ninja log v5
+1	214	6376230749143678	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/blinky/ewarm/Obj/startup_TM4C1294.o	29c697d352722c45
+23	451	6376230751012525	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/blinky/ewarm/Obj/blinky.o	5ec1b9fe2dcfa555
+220	609	6376230752801424	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/blinky/ewarm/Obj/rtx_lib.o	9008ad78781d4d1d
+464	867	6376230755170615	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/blinky/ewarm/Obj/system_TM4C1294_TW.o	f9b4c2fdad2d1e4e
+623	999	6376230756529807	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/blinky/ewarm/Obj/RTX_Config.o	df580e11bfd68060
+880	1284	6376230759597979	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/blinky/ewarm/Obj/driverleds.o	1ef4d05032f46004
+1304	2422	6376230770745304	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/blinky/ewarm/Exe/blinky.out	4591e78ffeccde02
+2441	2728	6376230774373133	E:/Universidade/2020_2/Sistemas Embarcados/Laboratorio4/Projects/blinky/ewarm/Exe/blinky.bin	1651fbc16d54f641

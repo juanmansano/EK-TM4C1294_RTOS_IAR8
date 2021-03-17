@@ -52,6 +52,7 @@
 //   <i> Default: 1000 (1ms tick)
 #ifndef OS_TICK_FREQ
 #define OS_TICK_FREQ                1000
+
 #endif
  
 //   <e>Round-Robin Thread switching
