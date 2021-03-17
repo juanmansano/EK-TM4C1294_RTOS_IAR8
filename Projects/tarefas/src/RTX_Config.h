@@ -108,7 +108,7 @@
 //     <i> Defines maximum number of user threads with default stack size.
 //     <i> Applies to user threads with zero stack size specified.
 #ifndef OS_THREAD_DEF_STACK_NUM
-#define OS_THREAD_DEF_STACK_NUM     1
+#define OS_THREAD_DEF_STACK_NUM     4
 #endif
  
 //     <o>Total Stack size [bytes] for user Threads with user-provided Stack size <0-1073741824:8>
